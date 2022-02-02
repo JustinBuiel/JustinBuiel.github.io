@@ -12,9 +12,10 @@ map{
 
 div{
     display: block;
-    margin-top:15px;
+    margin-top: auto;
     margin: auto;
     width:80%;
+    height:1000%;
     text-align: center;
 }
 
