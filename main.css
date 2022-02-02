@@ -5,6 +5,7 @@ img{
 }
 
 map{
+    display: block;
     margin: auto;
     width:80%;
 }
