@@ -10,7 +10,8 @@ map{
 }
 
 div{
-    margin-top:10%;
+    display: block;
+    margin-top:15px;
     margin: auto;
     width:80%;
     text-align: center;
