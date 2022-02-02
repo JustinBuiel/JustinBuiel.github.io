@@ -8,6 +8,11 @@ map{
     width:80%;
 }
 
+div{
+    margin: auto;
+    width:80%;
+}
+
 .head{
     font-weight: bold;
     text-decoration: underline;
